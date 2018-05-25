@@ -8,3 +8,7 @@ Pebble-Talk is a communication medium that works without an internet connection.
 It uses the built-in WIFI-Direct system to establish that.
 
 It can send TEXT messages Images and has UDP call support. 
+
+USES-
+
+WIFI-DIRECT ANDROID
