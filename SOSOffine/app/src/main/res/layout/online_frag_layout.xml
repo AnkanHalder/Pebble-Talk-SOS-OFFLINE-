@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/relativelayout_items"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="7dp"
+    android:paddingTop="5dp">
+
+    <ImageView
+        android:id="@+id/default_online_profile_layout"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="13dp"
+        app:srcCompat="@drawable/profile" />
+
+    <TextView
+        android:id="@+id/default_online_display_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/default_online_profile_layout"
+        android:layout_marginStart="23dp"
+        android:layout_toEndOf="@+id/default_online_profile_layout"
+        android:text="Display Name"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/default_onlinedeviceaddress_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/default_online_profile_layout"
+        android:layout_alignStart="@+id/default_online_display_layout"
+        android:text="User Address" />
+
+    <ImageView
+        android:id="@+id/default_online_active_layout"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_alignTop="@+id/default_online_wifi_layout"
+        android:layout_marginStart="14dp"
+        android:layout_marginTop="5sp"
+        android:layout_toEndOf="@+id/default_online_display_layout"
+        app:srcCompat="@drawable/online" />
+
+    <ImageView
+        android:id="@+id/default_online_wifi_layout"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_alignBottom="@+id/default_onlinedeviceaddress_layout"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="40dp"
+        app:srcCompat="@drawable/wifi" />
+</RelativeLayout>

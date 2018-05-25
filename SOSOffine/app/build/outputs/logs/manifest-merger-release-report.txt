@@ -1,0 +1,273 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:2:1-53:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9ae8e9a58a853b8ad79dd46bd3d59ebd\AndroidManifest.xml:17:1-31:12
+MERGED from [com.github.karanchuri:PermissionManager:0.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\PermissionManager-0.1.0.aar\e2448bb7e4f0e8ee3cad582ecec44945\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dc600e4eab16e3fc320ac6b9679afe69\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\34c1273c48dac131b26302ee5ec2a957\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\76f59942b3da1ee3bbe66220d7f0c29d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\f6523258116e54afa1d3cec52cc6e759\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f4c2ad2081674f655bf786e949211051\AndroidManifest.xml:17:1-31:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\3cba0e1fab491336222b6449a9b2f066\AndroidManifest.xml:2:1-11:12
+MERGED from [id.zelory:compressor:2.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\compressor-2.1.0.aar\6c78433f70f1363dc3932a6d6880936e\AndroidManifest.xml:2:1-12:12
+MERGED from [com.oguzdev:CircularFloatingActionMenu:1.0.2] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\CircularFloatingActionMenu-1.0.2.aar\cfdfa667e4659198757b1d261e5bedfa\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ac3856a80036d5cdd77c8d7baccf5f08\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\f3b09d43c5cc74171bd6b1c0b0a8b077\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\fcdd014f7f8d4774a0e90badeb43f391\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\37c9248cbc229b8c6c828479c583b3c5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\bd36445b8f2a456a541b6470884999c1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\6c8bb73255c032ff1b118027fd73909d\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\00b56a9e6d3570f7fc63acf1bb26a64c\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2bdd65df61b2a1e89035650fe3289c25\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:5:5-76
+	android:name
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:5:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:6:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:14:5-71
+	android:name
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:14:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:15:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:16:5-66
+	android:name
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:16:22-63
+uses-feature#android.hardware.camera
+ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:18:5-60
+	android:name
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:18:19-57
+uses-permission#android.permission.CAMERA
+ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:20:5-65
+	android:name
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:20:22-62
+application
+ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:22:5-51:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9ae8e9a58a853b8ad79dd46bd3d59ebd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9ae8e9a58a853b8ad79dd46bd3d59ebd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.github.karanchuri:PermissionManager:0.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\PermissionManager-0.1.0.aar\e2448bb7e4f0e8ee3cad582ecec44945\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.karanchuri:PermissionManager:0.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\PermissionManager-0.1.0.aar\e2448bb7e4f0e8ee3cad582ecec44945\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dc600e4eab16e3fc320ac6b9679afe69\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dc600e4eab16e3fc320ac6b9679afe69\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\34c1273c48dac131b26302ee5ec2a957\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\34c1273c48dac131b26302ee5ec2a957\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\76f59942b3da1ee3bbe66220d7f0c29d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\76f59942b3da1ee3bbe66220d7f0c29d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\f6523258116e54afa1d3cec52cc6e759\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\f6523258116e54afa1d3cec52cc6e759\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f4c2ad2081674f655bf786e949211051\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f4c2ad2081674f655bf786e949211051\AndroidManifest.xml:25:5-29:19
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\3cba0e1fab491336222b6449a9b2f066\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\3cba0e1fab491336222b6449a9b2f066\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ac3856a80036d5cdd77c8d7baccf5f08\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ac3856a80036d5cdd77c8d7baccf5f08\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\f3b09d43c5cc74171bd6b1c0b0a8b077\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\f3b09d43c5cc74171bd6b1c0b0a8b077\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\fcdd014f7f8d4774a0e90badeb43f391\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\fcdd014f7f8d4774a0e90badeb43f391\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\37c9248cbc229b8c6c828479c583b3c5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\37c9248cbc229b8c6c828479c583b3c5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\bd36445b8f2a456a541b6470884999c1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\bd36445b8f2a456a541b6470884999c1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\6c8bb73255c032ff1b118027fd73909d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\6c8bb73255c032ff1b118027fd73909d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\00b56a9e6d3570f7fc63acf1bb26a64c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\00b56a9e6d3570f7fc63acf1bb26a64c\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2bdd65df61b2a1e89035650fe3289c25\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2bdd65df61b2a1e89035650fe3289c25\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:29:9-35
+	android:label
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:26:9-41
+	android:hardwareAccelerated
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:24:9-44
+	android:roundIcon
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:28:9-54
+	android:largeHeap
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:27:9-33
+	android:icon
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:25:9-43
+	android:allowBackup
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:30:9-40
+activity#com.example.samscots.sosoffine.SplashScreen
+ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:31:9-39:20
+	android:screenOrientation
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:33:13-49
+	android:name
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:32:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:37:27-74
+activity#com.example.samscots.sosoffine.StartActivity
+ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:40:9-42:52
+	android:screenOrientation
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:42:13-49
+	android:name
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:41:13-42
+activity#com.example.samscots.sosoffine.ChatActivity
+ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:43:9-45:52
+	android:screenOrientation
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:45:13-49
+	android:name
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:44:13-41
+activity#com.example.samscots.sosoffine.Call
+ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:46:9-48:52
+	android:screenOrientation
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:48:13-49
+	android:name
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:47:13-33
+activity#com.example.samscots.sosoffine.MainActivity
+ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:49:9-50:51
+	android:screenOrientation
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:50:13-49
+	android:name
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml:49:19-47
+uses-sdk
+INJECTED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml
+INJECTED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9ae8e9a58a853b8ad79dd46bd3d59ebd\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9ae8e9a58a853b8ad79dd46bd3d59ebd\AndroidManifest.xml:21:5-23:62
+MERGED from [com.github.karanchuri:PermissionManager:0.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\PermissionManager-0.1.0.aar\e2448bb7e4f0e8ee3cad582ecec44945\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.karanchuri:PermissionManager:0.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\PermissionManager-0.1.0.aar\e2448bb7e4f0e8ee3cad582ecec44945\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dc600e4eab16e3fc320ac6b9679afe69\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dc600e4eab16e3fc320ac6b9679afe69\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\34c1273c48dac131b26302ee5ec2a957\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\34c1273c48dac131b26302ee5ec2a957\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\76f59942b3da1ee3bbe66220d7f0c29d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\76f59942b3da1ee3bbe66220d7f0c29d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\f6523258116e54afa1d3cec52cc6e759\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\f6523258116e54afa1d3cec52cc6e759\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f4c2ad2081674f655bf786e949211051\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f4c2ad2081674f655bf786e949211051\AndroidManifest.xml:21:5-23:54
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\3cba0e1fab491336222b6449a9b2f066\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\3cba0e1fab491336222b6449a9b2f066\AndroidManifest.xml:5:5-7:41
+MERGED from [id.zelory:compressor:2.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\compressor-2.1.0.aar\6c78433f70f1363dc3932a6d6880936e\AndroidManifest.xml:8:5-10:41
+MERGED from [id.zelory:compressor:2.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\compressor-2.1.0.aar\6c78433f70f1363dc3932a6d6880936e\AndroidManifest.xml:8:5-10:41
+MERGED from [com.oguzdev:CircularFloatingActionMenu:1.0.2] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\CircularFloatingActionMenu-1.0.2.aar\cfdfa667e4659198757b1d261e5bedfa\AndroidManifest.xml:7:5-9:41
+MERGED from [com.oguzdev:CircularFloatingActionMenu:1.0.2] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\CircularFloatingActionMenu-1.0.2.aar\cfdfa667e4659198757b1d261e5bedfa\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ac3856a80036d5cdd77c8d7baccf5f08\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ac3856a80036d5cdd77c8d7baccf5f08\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\f3b09d43c5cc74171bd6b1c0b0a8b077\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\f3b09d43c5cc74171bd6b1c0b0a8b077\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\fcdd014f7f8d4774a0e90badeb43f391\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\fcdd014f7f8d4774a0e90badeb43f391\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\37c9248cbc229b8c6c828479c583b3c5\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\37c9248cbc229b8c6c828479c583b3c5\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\bd36445b8f2a456a541b6470884999c1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\bd36445b8f2a456a541b6470884999c1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\6c8bb73255c032ff1b118027fd73909d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\6c8bb73255c032ff1b118027fd73909d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\00b56a9e6d3570f7fc63acf1bb26a64c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\00b56a9e6d3570f7fc63acf1bb26a64c\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2bdd65df61b2a1e89035650fe3289c25\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2bdd65df61b2a1e89035650fe3289c25\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml
+INJECTED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9ae8e9a58a853b8ad79dd46bd3d59ebd\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml
+		ADDED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Project\SOSOffine\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9ae8e9a58a853b8ad79dd46bd3d59ebd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dc600e4eab16e3fc320ac6b9679afe69\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dc600e4eab16e3fc320ac6b9679afe69\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\34c1273c48dac131b26302ee5ec2a957\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\34c1273c48dac131b26302ee5ec2a957\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\f6523258116e54afa1d3cec52cc6e759\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\f6523258116e54afa1d3cec52cc6e759\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f4c2ad2081674f655bf786e949211051\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f4c2ad2081674f655bf786e949211051\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ac3856a80036d5cdd77c8d7baccf5f08\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ac3856a80036d5cdd77c8d7baccf5f08\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\f3b09d43c5cc74171bd6b1c0b0a8b077\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\f3b09d43c5cc74171bd6b1c0b0a8b077\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\fcdd014f7f8d4774a0e90badeb43f391\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\fcdd014f7f8d4774a0e90badeb43f391\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\37c9248cbc229b8c6c828479c583b3c5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\37c9248cbc229b8c6c828479c583b3c5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\bd36445b8f2a456a541b6470884999c1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\bd36445b8f2a456a541b6470884999c1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\6c8bb73255c032ff1b118027fd73909d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\6c8bb73255c032ff1b118027fd73909d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\00b56a9e6d3570f7fc63acf1bb26a64c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\00b56a9e6d3570f7fc63acf1bb26a64c\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9ae8e9a58a853b8ad79dd46bd3d59ebd\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9ae8e9a58a853b8ad79dd46bd3d59ebd\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2bdd65df61b2a1e89035650fe3289c25\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2bdd65df61b2a1e89035650fe3289c25\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Jiraiya\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2bdd65df61b2a1e89035650fe3289c25\AndroidManifest.xml:26:13-58

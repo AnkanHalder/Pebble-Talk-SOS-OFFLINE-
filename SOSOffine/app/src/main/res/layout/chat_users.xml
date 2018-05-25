@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/chat_frag_relative_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="4dp">
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/chat_fragment_image"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_margin="10dp"
+        android:padding="8dp"
+        android:src="@drawable/profile" />
+
+    <TextView
+        android:id="@+id/chat_frag_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/chat_fragment_image"
+        android:layout_marginTop="11dp"
+        android:layout_toEndOf="@+id/chat_fragment_image"
+        android:text="UserName"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/chat_frag_last_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/chat_fragment_image"
+        android:layout_marginBottom="10sp"
+        android:layout_toEndOf="@+id/chat_fragment_image"
+        android:text="LastMessage"
+        android:textSize="13sp" />
+
+    <TextView
+        android:id="@+id/chat_frag_store_id"
+        android:layout_width="5dp"
+        android:layout_height="5dp"
+        android:layout_alignTop="@+id/chat_frag_last_message"
+        android:layout_toEndOf="@+id/chat_frag_name"
+        android:text="TextView"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/chat_frag_image_uri"
+        android:layout_width="3dp"
+        android:layout_height="3dp"
+        android:layout_alignBottom="@+id/chat_frag_name"
+        android:layout_toEndOf="@+id/chat_frag_store_id"
+        android:text="TextView" />
+
+</RelativeLayout>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.samscots.sosoffine.Call">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/call_circle_image"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/profile" />
+
+    <Button
+        android:id="@+id/call_call_left"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="71dp"
+        android:layout_marginLeft="40dp"
+        android:background="@drawable/call" />
+
+    <Button
+        android:id="@+id/call_end_mid"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignTop="@+id/call_call_left"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/calend" />
+
+    <Button
+        android:id="@+id/call_end_right"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/call_end_mid"
+        android:layout_marginEnd="15dp"
+        android:layout_marginRight="40dp"
+        android:background="@drawable/calend" />
+
+    <TextView
+        android:id="@+id/Call_display_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/call_circle_image"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="11dp"
+        android:text="DisplayName"
+        android:textColor="@android:color/black"
+        android:textSize="28sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/call_id"
+        android:layout_width="1dp"
+        android:layout_height="1dp"
+        android:layout_alignBottom="@+id/Call_display_name"
+        android:layout_marginBottom="8dp"
+        android:layout_toEndOf="@+id/Call_display_name" />
+
+</RelativeLayout>
